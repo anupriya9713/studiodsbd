@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studiodsbd/static/css/main.39c1a763.css",
+    "main.js": "/studiodsbd/static/js/main.bd36ef38.js",
+    "static/media/logimg.png": "/studiodsbd/static/media/logimg.5bb6101ef94d5653755b.png",
+    "static/media/fluntologo.png": "/studiodsbd/static/media/fluntologo.b87a6047c1a9d9d0fa79.png",
+    "index.html": "/studiodsbd/index.html",
+    "main.39c1a763.css.map": "/studiodsbd/static/css/main.39c1a763.css.map",
+    "main.bd36ef38.js.map": "/studiodsbd/static/js/main.bd36ef38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c1a763.css",
+    "static/js/main.bd36ef38.js"
+  ]
+}
