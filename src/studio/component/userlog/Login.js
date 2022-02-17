@@ -26,7 +26,7 @@ function Login() {
                     <Col xs={5} className="newin-mar-row-col">
                         <Card className="newin-card-sh">
                             <div className="newin-card-img1"><img src={logo} /></div>
-                            <h2>Hi, Welcome Back</h2>
+                            <h2>Hi, Welcome Back hiii</h2>
                             <div className="newin-card-img2"><img src={logimg} /></div>
                         </Card>
                     </Col>
